@@ -13,7 +13,7 @@ Users should be able to:
 ## Links
 
 - [Solution URL](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
-- [Live Site URL](https://jhon-okayda-bookmark-landing-page.netlify.app/)
+- [Live Site URL](https://jhon-okayda-testimonials-grid-section.netlify.app/)
 
 ## Built with
 
